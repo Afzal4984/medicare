@@ -145,17 +145,6 @@
 
 <br/><br/>
  
-# Our Team :
-
- <ul>
-	<li><a href="https://github.com/AyushiVashisth">Ayushi Vashisth (Team Lead)</a></li>
-        <li><a href="https://github.com/ankush3681">Ankush Kumar (Team Member)</a></li>
-        <li><a href="https://github.com/Aajad2002">Aajad Kumar Prajapat(Team Member)</a> </li>
-        <li><a href="https://github.com/sourabhpatel073">Sourabh Patel (Team Member)</a></li>
-        <li><a href="https://github.com/akshay123332">Akshay Kumar (Team Member)</a></li>
-  </ul>
-
-### This is a collaborative project built by a team of 4 fullstack web developers and executed in 5 days.
 
 <br/><br/>
 
